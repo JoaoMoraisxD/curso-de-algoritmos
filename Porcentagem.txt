@@ -1,0 +1,6 @@
+A x (Porcentagen)
+_______
+100
+
+O valor do produto multiplicado pela 
+porcentagem divido por 100

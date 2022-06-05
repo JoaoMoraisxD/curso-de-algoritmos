@@ -1,0 +1,15 @@
+Identificadores 5 Regras
+
+1- Deve começar com Letra
+2- Os proximos podem ser letras e numeros
+3- Nao pode utilizar simbolos, Exerto "_"
+4- Nao conter expaço em breanco
+5- Nao conter letra com acentos
+6- Nao pode ser uma palvra reservada
+
+Tipos Primitivos :
+
+Inteiro- Ex: 1, 3, -5, 198, 0
+Real- Ex 0.5, 5.0, 9.8, -77.3, 3.1415
+Caractere- Ex: "joão" "Algoritimo"
+Logico- Ex: Verdadeiro ou Falso
